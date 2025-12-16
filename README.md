@@ -22,44 +22,89 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 1: Course Introduction & What is Programming?
 📁 `01_introduction/lesson.ipynb`
-- Overview of the 8-week course structure
-- What programming is and why learn Python
-- Roles of Python and R in the real world
+- 1.1 Welcome to the Course
+- 1.2 Course Structure & Overview
+- 1.3 What is Programming?
+- 1.4 Why Learn Python?
+- 1.5 Python vs R in the Real World
+- 1.6 What You'll Build in This Course
+- 1.7 Tips for Success
 
 #### Topic 2: Setting Up Your Environment
 📁 `02_environment_setup/lesson.ipynb`
-- Installing Anaconda
-- Introduction to Jupyter Notebook
-- Creating and saving .ipynb files
+- 2.1 Introduction to Anaconda
+- 2.2 Installing Anaconda
+- 2.3 Launching Jupyter Notebook
+- 2.4 Understanding the Jupyter Interface
+- 2.5 Creating Your First Notebook
+- 2.6 Notebook Basics: Cells and Execution
+- 2.7 Saving and Managing Notebooks
 
 #### Topic 3: Your First Python Program - "Hello, World!"
 📁 `03_hello_world/`
-- Using the `print()` function
-- Basic syntax rules
-- Comments and documentation
-- Understanding indentation (preview)
+- 3.1 The "Hello, World!" Tradition
+- 3.2 Understanding the print() Function
+- 3.3 Comments and Documentation
+- 3.4 Python Syntax Rules
+- 3.5 The Importance of Indentation
+- 3.6 Understanding Error Messages
+- 3.7 Advanced print() Features
+- 3.8 Escape Characters
 
 #### Topic 4: Variables & Data Types
 📁 `04_variables_and_data_types/`
-- Variables as containers for data
-- Core data types: int, float, str, bool
-- Variable naming conventions
+- 4.1 What are Variables?
+- 4.2 Creating Variables
+- 4.3 Integer Data Type (int)
+- 4.4 Floating-Point Numbers (float)
+- 4.5 Strings (str)
+- 4.6 Booleans (bool)
+- 4.7 Checking Data Types with type()
+- 4.8 Variable Naming Rules and Conventions
+- 4.9 Updating Variables
+- 4.10 Multiple Assignment
+- 4.11 Working with Strings
+- 4.12 Common Mistakes to Avoid
 
 #### Topic 5: Basic Operators
 📁 `05_basic_operators/`
-- Arithmetic operators (+, -, *, /, **, //, %)
-- Assignment operators (=, +=, -=, etc.)
+- 5.1 What are Operators?
+- 5.2 Addition (+)
+- 5.3 Subtraction (-)
+- 5.4 Multiplication (*)
+- 5.5 Division (/)
+- 5.6 Exponentiation (**)
+- 5.7 Floor Division (//)
+- 5.8 Modulus (%)
+- 5.9 Operator Precedence (PEMDAS)
+- 5.10 Assignment Operators
+- 5.11 Practical Examples
 
 #### Topic 6: Getting User Input & Type Casting
 📁 `06_user_input_and_type_casting/`
-- Using `input()` function
-- Type conversion with int(), float(), str()
-- Making programs interactive
+- 6.1 Introduction to User Input
+- 6.2 The input() Function
+- 6.3 Working with User Input
+- 6.4 Understanding Type Casting
+- 6.5 Converting to Integer (int())
+- 6.6 Converting to Float (float())
+- 6.7 Converting to String (str())
+- 6.8 Building Interactive Programs
+- 6.9 Error Handling Basics
+- 6.10 Practical Applications
 
 #### Topic 7: Comparison & Logical Operators
 📁 `07_comparison_and_logical_operators/`
-- Comparison operators (==, !=, <, >, <=, >=)
-- Logical operators (and, or, not)
+- 7.1 Introduction to Boolean Logic
+- 7.2 Comparison Operators (==, !=, <, >, <=, >=)
+- 7.3 The Equality Operator (==)
+- 7.4 The Inequality Operator (!=)
+- 7.5 Greater Than and Less Than
+- 7.6 Logical AND Operator
+- 7.7 Logical OR Operator
+- 7.8 Logical NOT Operator
+- 7.9 Combining Logical Operators
+- 7.10 Practical Examples
 
 ---
 
@@ -67,29 +112,47 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 8: Conditional Statements - if, elif, else
 📁 `08_conditional_statements/`
-- Controlling program flow based on conditions
-- if, elif, else structure with examples
+- 8.1 Introduction to Decision Making
+- 8.2 The if Statement
+- 8.3 The else Statement
+- 8.4 The elif Statement
+- 8.5 Nested Conditionals
+- 8.6 Practical Applications
 
 #### Topic 9: Introduction to while Loops
 📁 `09_while_loops/`
-- Concept of looping for repetitive tasks
-- while loop structure
-- Avoiding infinite loops
+- 9.1 Understanding Loops
+- 9.2 The while Loop Syntax
+- 9.3 Loop Counters
+- 9.4 User-Controlled Loops
+- 9.5 Avoiding Infinite Loops
+- 9.6 Practical Examples
 
 #### Topic 10: The for Loop & range()
 📁 `10_for_loops_and_range/`
-- for loop for iterating over sequences
-- Using range() function
+- 10.1 Introduction to for Loops
+- 10.2 The range() Function
+- 10.3 Iterating Over Sequences
+- 10.4 Counting with range()
+- 10.5 Nested for Loops
+- 10.6 Practical Applications
 
 #### Topic 11: Loop Control - break and continue
 📁 `11_loop_control/`
-- Using break to exit loops early
-- Using continue to skip iterations
+- 11.1 Introduction to Loop Control
+- 11.2 The break Statement
+- 11.3 The continue Statement
+- 11.4 Using break and continue Together
+- 11.5 Practical Examples
 
 #### Topic 12: Project - Simple Guessing Game
 📁 `12_guessing_game_project/`
-- Capstone project combining all concepts learned
-- Building an interactive number-guessing game
+- 12.1 Project Overview
+- 12.2 Planning the Game
+- 12.3 Generating Random Numbers
+- 12.4 Implementing the Game Loop
+- 12.5 Adding Features and Enhancements
+- 12.6 Testing and Debugging
 
 ---
 
@@ -97,19 +160,36 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 13: Introduction to Lists
 📁 `13_introduction_to_lists/`
-- Lists as ordered, mutable collections
-- Common methods: append(), remove(), pop()
+- 13.1 What are Lists?
+- 13.2 Creating Lists
+- 13.3 Accessing List Elements
+- 13.4 Modifying Lists
+- 13.5 List Methods: append()
+- 13.6 List Methods: remove()
+- 13.7 List Methods: pop()
+- 13.8 Iterating Over Lists
 
 #### Topic 14: Working with Lists - Indexing & Slicing
 📁 `14_working_with_lists/`
-- Zero-based indexing to access elements
-- Slicing to extract sub-lists
-- Using len() function
+- 14.1 List Indexing Fundamentals
+- 14.2 Negative Indexing
+- 14.3 Introduction to Slicing
+- 14.4 Slicing Syntax and Patterns
+- 14.5 List Length with len()
+- 14.6 Checking Membership (in operator)
+- 14.7 List Concatenation and Repetition
+- 14.8 Advanced List Operations
 
 #### Topic 15: Introduction to Dictionaries
 📁 `15_introduction_to_dictionaries/`
-- Dictionaries as key-value pairs
-- Creating, accessing, and modifying dictionaries
+- 15.1 What are Dictionaries?
+- 15.2 Creating Dictionaries
+- 15.3 Accessing Values
+- 15.4 Adding and Modifying Entries
+- 15.5 Removing Entries
+- 15.6 Dictionary Methods
+- 15.7 Iterating Over Dictionaries
+- 15.8 Practical Applications
 
 ---
 
@@ -117,19 +197,34 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 16: Defining & Calling Functions
 📁 `16_defining_and_calling_functions/`
-- Importance of functions (DRY principle)
-- Function syntax with def keyword
+- 16.1 What are Functions?
+- 16.2 The DRY Principle (Don't Repeat Yourself)
+- 16.3 Function Syntax with def
+- 16.4 Calling Functions
+- 16.5 Function Naming Conventions
+- 16.6 Functions with No Parameters
+- 16.7 Practical Examples
 
 #### Topic 17: Function Parameters & Return Values
 📁 `17_function_parameters_and_return/`
-- Passing data into functions
-- Returning data with return keyword
+- 17.1 Introduction to Parameters
+- 17.2 Single Parameters
+- 17.3 Multiple Parameters
+- 17.4 Default Parameter Values
+- 17.5 The return Statement
+- 17.6 Returning Multiple Values
+- 17.7 Functions vs Procedures
+- 17.8 Practical Applications
 
 #### Topic 18: Introduction to Python Modules
 📁 `18_introduction_to_modules/`
-- What modules are and why they're useful
-- Using import statement
-- Working with math and random modules
+- 18.1 What are Modules?
+- 18.2 Importing Modules
+- 18.3 The math Module
+- 18.4 The random Module
+- 18.5 Importing Specific Functions
+- 18.6 Using Module Aliases
+- 18.7 Creating Your Own Modules
 
 ---
 
@@ -137,33 +232,68 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 19: Reading From & Writing to Text Files
 📁 `19_reading_writing_text_files/`
-- Opening, reading, and writing .txt files
-- Using with open() syntax
+- 19.1 Introduction to File Handling
+- 19.2 Opening Files
+- 19.3 Reading Files
+- 19.4 The with Statement
+- 19.5 Writing to Files
+- 19.6 Appending to Files
+- 19.7 File Modes
+- 19.8 Practical Applications
 
 #### Topic 20: Introduction to pandas
 📁 `20_introduction_to_pandas/`
-- What is pandas and why it's essential
-- Series (1D) and DataFrame (2D) structures
+- 20.1 What is pandas?
+- 20.2 Why Use pandas?
+- 20.3 Installing pandas
+- 20.4 Series: 1D Data Structure
+- 20.5 DataFrame: 2D Data Structure
+- 20.6 Creating DataFrames
+- 20.7 Basic DataFrame Operations
 
 #### Topic 21: Reading CSV Files into a DataFrame
 📁 `21_reading_csv_files/`
-- Installing pandas (if needed)
-- Using pd.read_csv() to load data
+- 21.1 What are CSV Files?
+- 21.2 The pd.read_csv() Function
+- 21.3 Loading Your First CSV
+- 21.4 Common CSV Parameters
+- 21.5 Handling Different Delimiters
+- 21.6 Dealing with Missing Data
+- 21.7 Practical Examples
 
 #### Topic 22: Inspecting a DataFrame
 📁 `22_inspecting_dataframe/`
-- Using head(), tail(), info(), describe()
-- Getting a first look at your data
+- 22.1 Why Inspect Data?
+- 22.2 The head() Method
+- 22.3 The tail() Method
+- 22.4 The info() Method
+- 22.5 The describe() Method
+- 22.6 Checking Shape and Size
+- 22.7 Column Names and Data Types
+- 22.8 Initial Data Exploration
 
 #### Topic 23: Selecting Data - Columns & Rows
 📁 `23_selecting_data/`
-- Selecting single and multiple columns
-- Introduction to loc[] and iloc[]
+- 23.1 Why Select Data?
+- 23.2 Selecting Single Columns
+- 23.3 Selecting Multiple Columns
+- 23.4 Introduction to loc[]
+- 23.5 Introduction to iloc[]
+- 23.6 Selecting Rows with loc[]
+- 23.7 Selecting Rows with iloc[]
+- 23.8 Combining Row and Column Selection
 
 #### Topic 24: Basic Data Filtering & Sorting
 📁 `24_filtering_and_sorting/`
-- Filtering rows based on conditions
-- Using sort_values() to reorder data
+- 24.1 Introduction to Filtering
+- 24.2 Boolean Indexing
+- 24.3 Filtering with Single Conditions
+- 24.4 Filtering with Multiple Conditions
+- 24.5 The sort_values() Method
+- 24.6 Sorting in Ascending Order
+- 24.7 Sorting in Descending Order
+- 24.8 Sorting by Multiple Columns
+- 24.9 Practical Data Analysis Examples
 
 ---
 
@@ -183,6 +313,13 @@ For each topic:
 2. ✏️ Complete the **exercises** (`exercises.ipynb`)
 3. ✅ Check your work with the **solutions** (in `solutions/` folder)
 4. 🔁 Review and practice until comfortable
+
+### Navigating Subtopics
+
+Each lesson is organized with numbered subtopics (e.g., 3.1, 3.2, 3.3) that break down the material into digestible chunks. You can:
+- Learn subtopics sequentially for comprehensive understanding
+- Jump to specific subtopics for targeted review
+- Use subtopic numbers to track your progress
 
 ### Tips for Success
 
@@ -370,4 +507,5 @@ If you encounter issues with the course materials:
 ---
 
 *Last Updated: December 2024*
-*Course Version: 1.0*
+*Course Version: 2.0*
+*Now with detailed subtopic structure for easier navigation!*
