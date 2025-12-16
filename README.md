@@ -22,23 +22,28 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 1: Course Introduction & What is Programming?
 📁 `01_introduction/lesson.ipynb`
-- 1.1 Welcome to the Course
-- 1.2 Course Structure & Overview
-- 1.3 What is Programming?
-- 1.4 Why Learn Python?
-- 1.5 Python vs R in the Real World
-- 1.6 What You'll Build in This Course
-- 1.7 Tips for Success
+- Welcome to Python Foundations!
+- What is Programming?
+- Why Python?
+- Python vs R: Understanding Both Languages
+- What You'll Build in This Course
+- How to Succeed in This Course
 
 #### Topic 2: Setting Up Your Environment
 📁 `02_environment_setup/lesson.ipynb`
-- 2.1 Introduction to Anaconda
-- 2.2 Installing Anaconda
-- 2.3 Launching Jupyter Notebook
-- 2.4 Understanding the Jupyter Interface
-- 2.5 Creating Your First Notebook
-- 2.6 Notebook Basics: Cells and Execution
-- 2.7 Saving and Managing Notebooks
+- What is Anaconda?
+- Step 1: Installing Anaconda
+- Step 2: Exploring Anaconda Navigator
+- Step 3: Introduction to Jupyter Notebook
+- Step 4: Launching Jupyter Notebook
+- Step 5: Creating Your First Notebook
+- Step 6: Understanding Cells
+- Step 7: Essential Keyboard Shortcuts
+- Step 8: Saving Your Notebook
+- Step 9: Opening an Existing Notebook
+- Step 10: Best Practices
+- Practice Exercise: Set Up Your Workspace
+- Troubleshooting Common Issues
 
 #### Topic 3: Your First Python Program - "Hello, World!"
 📁 `03_hello_world/`
@@ -82,16 +87,16 @@ This is an 8-week course designed for beginners with **NO prior programming expe
 
 #### Topic 6: Getting User Input & Type Casting
 📁 `06_user_input_and_type_casting/`
-- 6.1 Introduction to User Input
-- 6.2 The input() Function
-- 6.3 Working with User Input
-- 6.4 Understanding Type Casting
-- 6.5 Converting to Integer (int())
-- 6.6 Converting to Float (float())
-- 6.7 Converting to String (str())
-- 6.8 Building Interactive Programs
-- 6.9 Error Handling Basics
-- 6.10 Practical Applications
+- Making Programs Interactive
+- The input() Function
+- Critical: input() Always Returns a String
+- Type Casting: Converting Data Types
+- Converting to Integer: int()
+- Converting to Float: float()
+- Converting to String: str()
+- Practical Examples
+- Common Mistakes and How to Avoid Them
+- Quick Reference
 
 #### Topic 7: Comparison & Logical Operators
 📁 `07_comparison_and_logical_operators/`
